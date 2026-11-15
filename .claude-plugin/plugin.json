@@ -1,0 +1,16 @@
+{
+  "name": "publicaml",
+  "displayName": "PublicAML",
+  "description": "Free crypto AML screening in Claude Code: risk-score any Bitcoin, Ethereum, BNB Chain, TRON or Solana address, screen every incoming payment to your wallets, verify that a counterparty paid an invoice, and trace stolen funds.",
+  "version": "0.1.0",
+  "author": { "name": "PublicAML", "email": "info@publicaml.org" },
+  "homepage": "https://publicaml.org/mcp/",
+  "documentationUrl": "https://publicaml.org/mcp/",
+  "supportUrl": "mailto:info@publicaml.org",
+  "termsOfServiceUrl": "https://publicaml.org/terms/",
+  "privacyPolicyUrl": "https://publicaml.org/privacy/",
+  "icon": "./.claude-plugin/icon.png",
+  "repository": "https://github.com/saloprj/publicaml-claude-plugin",
+  "license": "MIT",
+  "keywords": ["aml", "kyt", "crypto", "compliance", "sanctions", "risk-score", "bitcoin", "ethereum", "tron", "bsc", "usdt", "mcp"]
+}

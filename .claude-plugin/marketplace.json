@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "publicaml",
+  "description": "PublicAML plugins for Claude Code",
+  "owner": { "name": "PublicAML", "email": "info@publicaml.org" },
+  "plugins": [
+    {
+      "name": "publicaml",
+      "description": "Free crypto AML screening in Claude Code: risk-score any Bitcoin, Ethereum, BNB Chain, TRON or Solana address, screen every incoming payment to your wallets, verify that a counterparty paid an invoice, and trace stolen funds.",
+      "author": { "name": "PublicAML" },
+      "source": ".",
+      "category": "security",
+      "homepage": "https://publicaml.org/mcp/"
+    }
+  ]
+}
