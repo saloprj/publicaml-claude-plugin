@@ -2,6 +2,8 @@
 
 Free crypto AML screening inside Claude Code, from [PublicAML](https://publicaml.org). No account, no API key.
 
+Announcement: https://publicaml.org/claude-code/ · Step-by-step guide: https://publicaml.org/crypto-payment-aml-check/
+
 - **check-address**: risk score 0-100, level, sanctions exposure and the risk path for any Bitcoin, Ethereum, BNB Chain, TRON or Solana address or transaction.
 - **incoming-payments**: screen every incoming payment to your wallets (KYT). Flags HIGH and CRITICAL senders and suggests an action for each.
 - **verify-invoice-payment**: confirm a counterparty really paid an invoice. It checks the asset, amount and network on-chain, then AML-screens the payer before you accept.
